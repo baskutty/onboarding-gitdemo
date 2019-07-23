@@ -1,7 +1,11 @@
 
 <project >
 	<modelVersion>4.0.0</modelVersion>
-	<name>This is done in master branch</name>
+
+	<name>This is done in master and dev 1.0 branch</name>
+
+	
+	
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
