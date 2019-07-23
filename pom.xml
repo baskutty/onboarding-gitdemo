@@ -1,6 +1,7 @@
 
 <project >
 	<modelVersion>4.0.0</modelVersion>
+	<name>this change in dev 1.0 branch</name>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
